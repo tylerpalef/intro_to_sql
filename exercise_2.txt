@@ -1,4 +1,4 @@
-Find all the robots from Star Wars.
+Find all the robots from Star Wars. 
 1 SELECT * FROM robots WHERE source = 'Star Wars';
 
 Find the robot with an "anxious" personality.
